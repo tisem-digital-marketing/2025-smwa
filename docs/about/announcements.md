@@ -2,15 +2,15 @@
 
 Important announcements will be posted here to avoid our inboxes getting clogged up.
 
-If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.slack.com/). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
+If you have questions - direct them to us via [Slack](https://tisem-smwa-2024.slack.com/). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
 -
 !!! note "Welcome!"
-    *Date Posted: 2023-04-04*
+    *Date Posted: 2024-04-04*
 
     Welcome to the course "Social Media and Web Analytics."
 
-    Please take a look around the [course website](https://tisem-digital-marketing.github.io/2023-smwa/) before the course begins. All the latest information about the course material, course structure and any additional information are available on these pages.
+    Please take a look around the [course website](https://tisem-digital-marketing.github.io/2024-smwa/) before the course begins. All the latest information about the course material, course structure and any additional information are available on these pages.
 
     We particularly draw your attention to the following:
 
@@ -23,13 +23,13 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2023.sl
         * We expect you to have completed it before the course begins.
         * The guide is modular in nature - with most steps being independent of those before and after.
 
-    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://tisem-digital-marketing.github.io/2023-smwa/about/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://tisem-smwa-2023.slack.com/signup#/).
+    To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://tisem-digital-marketing.github.io/2024-smwa/about/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://tisem-smwa-2024.slack.com/signup#/).
 
-    We look forward to seeing you at our kick off lecture on Tuesday April 11, at 10:45am. 
+    We look forward to seeing you at our kick off lecture on Monday April 8, at 12:45am. 
 
     Best,
 
-    Lachlan and Gijs
+    Lachlan and Roshini
 
 -
 
