@@ -1,74 +1,13 @@
-# Online Reputation
+# Week 3
 
-## Required Readings
+## Lecture 1: Identification & Experimentation
 
-Parts of these readings and themes from them will be covered in the video lecture.
+Material posted closer to course start date
 
-* [The Dynamics of Seller Reputation: Evidence from Ebay][rep-ebay]
-* [Promotional reviews: An empirical investigation of online review manipulation](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2304)
-* [Measuring and Managing the Externality of Managerial Responses to Online Customer Reviews][chen-etal]
+## Lecture 2: A/B Testing - Basics
 
-<!-- This book is a "go-to" for text analytics:
-
-* [Tidy Text Mining with R][tidytext]
-    * Chapters 1, 2 and 3 -->
-
-## Video Lecture
-
-:fontawesome-brands-youtube: [Videos](https://www.youtube.com/watch?v=4Hxhtua6N_M&list=PL9QkA7C7GRGVradyo4SUbsCtn4sDiik37&pp=gAQBiAQB)
-
-* [Slides: Weekly Overview][week-overview]
-* [Slides: Online Reputation][lecture-slides-03]
-
-## Computing Lecture
-
-* Regression, Experiments and Difference in Differences 
-    * [Git Hub Repo][computing-lecture] with starter code
-    * Code similar to what we did live in class [here][computing-lecture-solution]
-
-## Lab Section
-
-* Marketing Analytics in the Wild
-
-> TikTok’s User Experience team is worried about the amount of lurkers on their platform and wants to design a new strategy to get them to engage with or post content. Propose a potential strategy that could lead to increases in either form of engagement by lurkers along with an empirical strategy to test whether the strategy is effective.
-
-* [Answer Template](../assets/labs/maw_structured_answer.docx)
-
-* Discuss Solutions to Lab Assignment 1
+Material posted closer to course start date
 
 ## Lab Assignment
 
-* [Link][lab-02] to GitHub repository 
-    <!-- * Questions with an answer template contained in repo -->
-    * [Partial Solutions][lab-02-s] 
-
-
-## Additional Readings
-
-These readings are optional, and designed to give interested students a place to look for some further information.
-
-* [Reputation and Regulations: Evidence from eBay][rep-ebay2]
-* [Fake It Till You Make It: Reputation, Competition, and Yelp Review Fraud][fake-yelp]
-* [Online Reputation Management: Estimating the Impact of Management Responses on Consumer Reviews][orm-zervas] 
-    * Part of Group Assignment 1 is based on this paper
-* [Channels of Impact: User reviews when quality is dynamic and managers respond][orm-chev]
-* [The Squeaky Wheel Gets the Grease—An Empirical Analysis of Customer Voice and Firm Intervention on Twitter][orm-cv]
-    * This paper is quite a tough read due to the relatively complicated modelling
-
-[rep-ebay]: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6451.2010.00405.x
-[rep-ebay2]: https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2015.2323
-[fake-yelp]: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2015.2304
-[orm-zervas]: https://pubsonline.informs.org/doi/10.1287/mksc.2017.1043
-[orm-chev]: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2018.1090
-[orm-cv]: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2015.0912
-[chen-etal]: https://repository.arizona.edu/bitstream/handle/10150/632181/2%20ISR-MR-Paper.pdf?sequence=1
-[tidytext]: https://www.tidytextmining.com/
-
-[lab-02]: https://github.com/tisem-digital-marketing/smwa-lab-02
-[lab-02-s]: ../assets/labs/lab-02_solution.pdf
-
-
-[lecture-slides-03]: ../assets/lectures/week-03/week-03-slides.pdf
-[week-overview]: ../assets/lectures/week-03/week-03-overview.pdf
-[computing-lecture]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did
-[computing-lecture-solution]: https://github.com/tisem-digital-marketing/smwa-computer-lecture-did/tree/instructor
+Material posted closer to course start date
