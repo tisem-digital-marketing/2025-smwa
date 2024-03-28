@@ -4,7 +4,7 @@
 |------------------------------|-------------|-----------------|------------------|
 | Group Assignment 1           | 20          | -               | No               |
 | Group Assignment 2           | 20          | -               | No               |
-| Final Exam                   | 40          | 5.0             | Yes, 1 x in July |
+| Final Exam                   | 60          | 5.0             | Yes, 1 x in July |
 
 **To pass the course**: Final Course Grade (weighted average) **>= 5.5**.
 
