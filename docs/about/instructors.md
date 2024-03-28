@@ -17,23 +17,16 @@ In his spare time he enjoys strumming his ukulele, improving his barista skills 
 
 [**Sign Up to Lachlan's Office Hours**][calendly-lachlan]
 
-## Gijs van Bussel
+## Roshini Sudhaharan
 
 <!-- http://127.0.0.1:8000/docs/assets/figs/gijs.jpg -->
 <!-- https://tisem-digital-marketing.github.io/2022-smwa/about/instructors/assets/figs/gijs.jpg -->
-<p style="text-align:center;"><img src="../../assets/figs/gijs.jpg" alt="Logo" width = "200"></p>
+<!---<p style="text-align:center;"><img src="../../assets/figs/gijs.jpg" alt="Logo" width = "200"></p> --->
 
-Gijs is a lecturer at the Marketing Department of the Tilburg School of Economics and Management and is involved in teaching activities across the Bachelors and Masters programs.
-His academic interests include improving educational practice in Marketing degree programs, data driven decision making and sports analytics.
-Outside of the office Gijs' interests center around fitness and Sunday League Football. 
-<!-- 
-Hendrik is a lecturer at the Tilburg School of Economics and Management and is involved in various teaching activities. 
-His interests are aligned with the courses he teaches and coordinates, and the topics he supervises students in.
-Those interests include general research methods, (social media) data analytics, and marketing strategy. 
-His substantive interest are in access-based consumption, marketing in the sharing economy, and marketing and sustainability. 
-[Let’s connect on LinkedIn!](https://www.linkedin.com/in/h-de-with/) -->
+Roshini is a lecturer at the Marketing Department of the Tilburg School of Economics and Management and is involved in teaching activities across the Bachelors and Masters programs.
+ 
 
-[**Sign Up to Gijs' Office Hours**][calendly-gijs]
+[**Sign Up to Roshini's Office Hours**][calendly-roshini]
 
-[calendly-gijs]: https://canvas.uvt.nl/
+[calendly-roshini]: ??
 [calendly-lachlan]: https://calendly.com/lachlan-deer/office-hours

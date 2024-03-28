@@ -6,14 +6,15 @@ The written exam may include questions around computer / statistical code, so be
 
 The exam will be split into three components as follows: 
 
-* PART A: True/False/Uncertain with an explanation (20%), 
+* PART A: Multiple Choice (20%), 
 * PART B: Short answer questions (40%), and 
 * PART C: A Structured Essay question (40%)
 
 ## Mock Exam
 
-<!-- A mock exam will be posted by the beginning of Week 6. -->
+A mock exam will be posted by the beginning of Week 6.
 
+<!-- 
 * [**Mock Exam**][mock-exam]
 
 !!! danger "Caution when Revising Using Mock Exams" 
@@ -25,5 +26,6 @@ The exam will be split into three components as follows:
     * Mock exam questions do not necessarily reflect the order or exact emphasis of the final exam questions.
     * No answers to the mock exam will be made available, since giving answers generally encourages "learning answers" rather than learning concepts.
     * We suggest forming study groups to talk over potential solutions among yourselves.
-
+ -->
+ 
 [mock-exam]:  ../assets/exam/2023_smwa_mock.pdf
