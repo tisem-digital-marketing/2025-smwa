@@ -1,6 +1,6 @@
 # Course Website: Social Media and Web Analytics, 2024-TiSEM
 
-[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yml/badge.svg)](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yml)
+[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yaml/badge.svg)](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yaml)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035) -->
 
 ## Meta-Information
