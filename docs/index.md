@@ -11,9 +11,8 @@ This course introduces students to a marketing analytics toolkit that can be use
 
 ## Important Information
 
-<!---
-:fontawesome-solid-building-columns: [Course Syllabus](assets/syllabus.pdf)
---->
+
+:fontawesome-solid-building-columns: [Course Syllabus](assets/smwa-syllabus-2024.pdf)
 
 :fontawesome-regular-calendar: [Class Schedule](about/schedule)
 

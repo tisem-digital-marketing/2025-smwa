@@ -4,7 +4,7 @@
 
 ### Reading
 
-* The Course Syllabus
+* The [Course Syllabus][syllabus]
 
 ### Lecture Material
 
@@ -27,6 +27,8 @@ Material posted closer to course start date
 Material posted closer to course start date
 
 <!--- Links Below --->
+[syllabus]: ../assets/smwa-syllabus-2024.pdf
+
 [the-effect]: https://theeffectbook.net/index.html
 [stephan-toubia]: https://www.researchgate.net/publication/261851427_Intrinsic_vs_Image-Related_Utility_in_Social_Media_Why_Do_People_Contribute_Content_to_Twitter
 
