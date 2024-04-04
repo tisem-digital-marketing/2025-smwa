@@ -22,17 +22,16 @@ This course introduces students to a marketing analytics toolkit that can be use
 
 :fontawesome-solid-bell: [Announcements](about/announcements)
 
-<!---
-## :fontawesome-solid-square-poll-vertical: [Pre-Course Survey](https://forms.gle/rxFYL7sgzqciD9DK6)
 
-Please fill out the [pre-course survey](https://forms.gle/rxFYL7sgzqciD9DK6) before the first class (Tuesday of Week 1)
+## :fontawesome-solid-square-poll-vertical: [Pre-Course Survey](https://forms.gle/XrNS7dNGd7qEFf9w8)
+
+Please fill out the [pre-course survey](https://forms.gle/XrNS7dNGd7qEFf9w8) before the first class (Monday of Week 1)
 
 ## :fontawesome-brands-slack: Slack Chat 
 
 Discussion with the instructors and with your peers will take place on the [Slack](https://slack.com/) messaging platform.
 
-* [Sign up](https://tisem-smwa-2023.slack.com/signup#/) to our Slack chat by creating an account with your `@tilburguniversity.edu` email address
-* [Log in](https://tisem-smwa-2023.slack.com/) once you have created an account.
+* [Sign up](https://join.slack.com/t/tisem-smwa-2024/shared_invite/zt-2g6v0v4mb-drOMQGZUaSmt79MK6T3J4g) via this link or by using your `@tilburguniversity.edu` email account
+* [Log in](https://tisem-smwa-2024.slack.com/) once you have created an account.
 
 Contact us via email if you cannot sign up or log in.
---->
