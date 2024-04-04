@@ -14,7 +14,7 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2024.sl
 
     We particularly draw your attention to the following:
 
-    * **[Pre-Course Survey](https://forms.gle/rxFYL7sgzqciD9DK6)**.
+    * **[Pre-Course Survey](https://forms.gle/XrNS7dNGd7qEFf9w8)**.
         * Please fill this out before the course begins.
 
     * **Course Preparation**. We've provided some materials to help you install the required software and refresh your Git and R skills before starting the class. Check it out before the course begins.
@@ -25,7 +25,7 @@ If you have questions - direct them to us via [Slack](https://tisem-smwa-2024.sl
 
     To avoid clogging up everyone's inboxes with course email, all future important information will be posted on the course's [Announcements page](https://tisem-digital-marketing.github.io/2024-smwa/about/announcements) - be sure to check in there regularly. Smaller pieces of information and course chat will take place inside a chat environment, called [Slack](https://www.slack.com). Sign up to join the conversation [here](https://tisem-smwa-2024.slack.com/signup#/).
 
-    We look forward to seeing you at our kick off lecture on Monday April 8, at 12:45am. 
+    We look forward to seeing you at our kick off lecture on Monday April 8, at 12:45pm. 
 
     Best,
 

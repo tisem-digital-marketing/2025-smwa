@@ -5,9 +5,8 @@ Welcome to the course website for **Social Media and Web Analytics** at TiSEM in
 This course introduces students to a marketing analytics toolkit that can be used to analyse data originating from digital markets and social media.
 
 
-!!! bug "Site Under Development"
-    
-    **Please check back in closer to April 8, 2024 to find the most up to date information.**
+!!! tip "Site is Live: Information is accurate as of 4th April, 2024"
+
 
 ## Important Information
 

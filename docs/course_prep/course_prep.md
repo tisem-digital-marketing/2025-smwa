@@ -1,10 +1,8 @@
-* [Coding Camp Intro Slides](assets/lectures/course_prep/codecamp.pdf)
-* [Watch the Coding Camp Intro Video](https://youtu.be/kPZdgpJXHg0)
 
 To succeed in this course you will need to be willing to get your hands dirty and learn some new coding skills.
 We will need you to have acquired some basic coding skills before the course begins, and have curated some resources for you to work through so that we all begin the class from the same set of building blocks.
 
-Please work through the following content before the course begins to build up your basic coding toolkit:
+The following content provides some background information on coding with `R` and version control with Git. If you are unfamiliar with the tools, or want to refresh your knowledge, look over the content as needed:
 
 1. Complete the [software installation guide](../software_install).
 2. Completion of DataCamp modules on `R`, Version Control with Git, and some command line basics. See below for specifics.
