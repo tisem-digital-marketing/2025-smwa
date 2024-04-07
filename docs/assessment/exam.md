@@ -6,9 +6,9 @@ The written exam may include questions around computer / statistical code, so be
 
 The exam will be split into three components as follows: 
 
-* PART A: Multiple Choice (20%), 
+* PART A: Multiple Choice (30%), 
 * PART B: Short answer questions (40%), and 
-* PART C: A Structured Essay question (40%)
+* PART C: A Structured Essay question (30%)
 
 ## Mock Exam
 
