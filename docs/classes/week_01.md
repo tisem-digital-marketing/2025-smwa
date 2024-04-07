@@ -8,23 +8,27 @@
 
 ### Lecture Material
 
-Material posted closer to course start date
+:fontawesome-solid-file-pdf: [Lecture 1 Slides][l01]
 
 ## Lecture 2: The Design of Empirical Research
 
 ### Reading
 
-* [The Effect][the-effect], Chapters 1, 2 and 5
-* [Intrinsic vs. image-related utility in social media: Why do people contribute content to twitter?][stephan-toubia]
+:fontawesome-solid-book: [The Effect][the-effect], Chapters 1, 2 and 5
+
+:fontawesome-solid-scroll: [Intrinsic vs. image-related utility in social media: Why do people contribute content to twitter?][stephan-toubia]
 
 
 ### Lecture Material
 
-Material posted closer to course start date
+:fontawesome-solid-file-pdf: [Lecture 2 Slides][l02-student]
+
+:fontawesome-solid-code: [Git Hub Repo][code]
+
 
 ## Lab Assignment
 
-Material posted closer to course start date
+No Lab this week
 
 <!--- Links Below --->
 [syllabus]: ../assets/smwa-syllabus-2024.pdf
@@ -32,5 +36,7 @@ Material posted closer to course start date
 [the-effect]: https://theeffectbook.net/index.html
 [stephan-toubia]: https://www.researchgate.net/publication/261851427_Intrinsic_vs_Image-Related_Utility_in_Social_Media_Why_Do_People_Contribute_Content_to_Twitter
 
-[course-intro]: ../assets/lectures/l01_courseintro.pdf
-[lecture-researchdesign]: ../assets/lectures/l02_researchdesign.pdf
+[l01]: ../assets/lectures/week-01/l01_course_introduction.pdf
+[l02-student]: ../assets/lectures/week-01/l02_empirical_research_design_student.pdf
+[l02]: ../assets/lectures/l02_empirical_research_design.pdf
+[code]: https://github.com/tisem-digital-marketing/smwa-designing-research-code
