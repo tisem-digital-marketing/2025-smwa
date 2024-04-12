@@ -4,7 +4,7 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
 If you have questions - direct them to us via [Slack](https://tisem-smwa-2024.slack.com/). There's a 'Direct Message' feature so you can contact us individually as needed, but where possible post messages to a channel that all participants can see.
 
--
+
 !!! note "Welcome!"
     *Date Posted: 2024-04-04*
 

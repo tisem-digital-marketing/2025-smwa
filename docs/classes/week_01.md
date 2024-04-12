@@ -4,7 +4,7 @@
 
 ### Reading
 
-* The [Course Syllabus][syllabus]
+:fontawesome-solid-building-columns: The [Course Syllabus][syllabus]
 
 ### Lecture Material
 
