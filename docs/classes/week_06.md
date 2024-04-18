@@ -1,6 +1,6 @@
 # Week 6
 
-## Lecture 1: Course Introduction 
+## Lecture 1
 
 No Lecture due to Public Holiday
 
