@@ -31,7 +31,9 @@ Coming Soon
 
 ## Lab Assignment
 
-Material posted closer to beginning of course week
+:fontawesome-brands-github: [Assignment Questions][assignment]
+
+[assignment]: https://github.com/tisem-digital-marketing/smwa-lab-identification
 
 [rc-nw]: https://nulib.github.io/moderndive_book/7-causality.html
 [charity]: https://doi.org/10.1287/mksc.2023.1450
