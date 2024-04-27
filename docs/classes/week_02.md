@@ -20,8 +20,11 @@ Each are written in a different style, choose the one(s) that helps you learn/re
 ### Questions
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
+* [Solution][solution]
+
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-regression
+[solution]: ../assets/lectures/week-02/lab-regression_solution.html
 
 [nw-stats]: https://nulib.github.io/moderndive_book/index.html
 [the-effect]: https://theeffectbook.net/
