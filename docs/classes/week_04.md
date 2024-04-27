@@ -12,15 +12,18 @@
 
 ### Slides
 
-* Finish "A/B Testing: Basics"
-* Start "A/B Testing: Next Steps"
+:fontawesome-solid-file-pdf: Finish ["A/B Testing: Basics"][l04-student]
+
+:fontawesome-solid-file-pdf: Start ["A/B Testing: Next Steps"][l05-student]
 
 ## Lecture 2
 
-* Finish "A/B Testing: Next Steps"
+:fontawesome-solid-file-pdf: Finish ["A/B Testing: Next Steps"][l05-student]
 
 ## Lab Assignment
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-ab-test/
+[l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
+[l05-student]: ../assets/lectures/week-04/l05_abtest_nextstep_student.pdf
