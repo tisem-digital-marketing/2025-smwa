@@ -21,4 +21,6 @@
 
 ## Lab Assignment
 
-Material posted closer to course start date
+:fontawesome-brands-github: [Assignment Questions][assignment]
+
+[assignment]: https://github.com/tisem-digital-marketing/smwa-lab-ab-test/
