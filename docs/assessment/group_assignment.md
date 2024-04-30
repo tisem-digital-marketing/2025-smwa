@@ -6,6 +6,7 @@
 * **Groups**: <!---See Canvas ---> Will be posted on Canvas
 * Assignment Link: [Click here](https://classroom.github.com/a/vPwrE2X5)
 * Group leaders should accept the assignment and add their team members
+* [Writing Tips][writingtips]
 <!-- * Assignment README documents how to do this. -->
 
 <!-- **Hints / Tips / Typos**:
@@ -25,3 +26,5 @@
 * Assignment Link: TBA <!---[Click here](https://classroom.github.com/a/1_1wwlru) --->
 * Group leaders should accept the assignment and add their team members
 <!-- * Assignment README documents how to do this.  -->
+
+[writingtips]: ../assets/writing_tips_amazon.pdf 
