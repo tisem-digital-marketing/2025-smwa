@@ -12,7 +12,11 @@
 
 :fontawesome-solid-file-pdf: [Lecture 3 Slides][l03-student]
 
+* As taught - [less blank slides][l03-instructor]
+
 :fontawesome-solid-code: [Git Hub Repo][l03-code]
+
+* [Code "Solutions"][l03-code-instructor]
 
 ## Lecture 2: A/B Testing - Basics
 
@@ -31,17 +35,25 @@
 
 :fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student]
 
+* As taught - [less blank slides][l03-instructor]
+
 :fontawesome-solid-code: [Git Hub Repo][l04-code]
+
+* [Code "Solutions"][l04-code-instructor]
 
 ## Lab Assignment
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
 [l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
+[l03-instructor]: ../assets/lectures/week-03/l03_randomized.pdf
 [l03-code]: https://github.com/tisem-digital-marketing/smwa-causation-code
+[l03-code-instructor]: https://github.com/tisem-digital-marketing/smwa-causation-code/tree/instructor
 
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
+[l04-instructor]: ../assets/lectures/week-03/l04_abtest_intro.pdf
 [l04-code]: https://github.com/tisem-digital-marketing/smwa-abtest-intro-code
+[l04-code-instructor]: https://github.com/tisem-digital-marketing/smwa-abtest-intro-code/tree/instructor
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-identification
 
