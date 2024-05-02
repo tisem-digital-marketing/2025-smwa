@@ -45,6 +45,9 @@
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
+* [Solutions for Part 1][assignment-solutions]
+* Solutions for Part 2: See your mural board
+
 [l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
 [l03-instructor]: ../assets/lectures/week-03/l03_randomized.pdf
 [l03-code]: https://github.com/tisem-digital-marketing/smwa-causation-code
@@ -56,6 +59,7 @@
 [l04-code-instructor]: https://github.com/tisem-digital-marketing/smwa-abtest-intro-code/tree/instructor
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-identification
+[assignment-solutions]: ../assets/labs/lab-identification-answers_solution.html
 
 [rc-nw]: https://nulib.github.io/moderndive_book/7-causality.html
 [charity]: https://doi.org/10.1287/mksc.2023.1450
