@@ -2,12 +2,12 @@
 
 ## Lecture 1: Alternative Causal Inference Methods
 
-Material posted closer to course start date
+Material posted closer to lecture
 
 ## Lecture 2: Innovations in Text Analytics
 
-Material posted closer to course start date
+Material posted closer to lecture
 
 ## Lab Assignment
 
-Material posted closer to course start date
+Material posted soon

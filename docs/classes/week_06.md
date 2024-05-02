@@ -6,8 +6,13 @@ No Lecture due to Public Holiday
 
 ## Lecture 2: Intro to Text Analytics
 
-Material posted closer to course start date
+
+### Reading
+
+ :fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
 
 ## Lab Assignment
 
-Material posted closer to course start date
+Material posted soon
+
+[tidytext]: https://www.tidytextmining.com/
