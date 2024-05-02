@@ -4,7 +4,7 @@
 
 No Lecture due to Public Holiday
 
-## Lecture 2: Sentiment Analysis
+## Lecture 2: Intro to Text Analytics
 
 Material posted closer to course start date
 

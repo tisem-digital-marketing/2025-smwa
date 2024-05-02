@@ -1,10 +1,10 @@
 # Week 7
 
-## Lecture 1: Topic Models
+## Lecture 1: Sentiment Analysis
 
 Material posted closer to course start date
 
-## Lecture 2: Advanced Text Analytics
+## Lecture 2: Topic Models
 
 Material posted closer to course start date
 
