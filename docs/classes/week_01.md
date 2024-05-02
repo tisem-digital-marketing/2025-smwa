@@ -23,8 +23,11 @@
 
 :fontawesome-solid-file-pdf: [Lecture 2 Slides][l02-student]
 
+* As taught - [less blank slides][l02]
+
 :fontawesome-solid-code: [Git Hub Repo][code]
 
+* [Code "Solutions"][code-instructor]
 
 ## Lab Assignment
 
@@ -38,5 +41,6 @@ No Lab this week
 
 [l01]: ../assets/lectures/week-01/l01_course_introduction.pdf
 [l02-student]: ../assets/lectures/week-01/l02_empirical_research_design_student.pdf
-[l02]: ../assets/lectures/l02_empirical_research_design.pdf
+[l02]: ../assets/lectures/week-01/l02_empirical_research_design.pdf
 [code]: https://github.com/tisem-digital-marketing/smwa-designing-research-code
+[code-instructor]: https://github.com/tisem-digital-marketing/smwa-designing-research-code/tree/instructor
