@@ -16,6 +16,12 @@
 
 :fontawesome-solid-file-pdf: Start ["A/B Testing: Next Steps"][l05-student]
 
+* As taught - [less blank slides][l05-instructor]
+
+:fontawesome-solid-code: [Git Hub Repo][l05-code]
+
+* [Code "Solutions"][l05-code-instructor]
+
 ## Lecture 2
 
 :fontawesome-solid-file-pdf: Finish ["A/B Testing: Next Steps"][l05-student]
@@ -27,3 +33,7 @@
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-ab-test/
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
 [l05-student]: ../assets/lectures/week-04/l05_abtest_nextstep_student.pdf
+[l05-instructor]: ../assets/lectures/week-04/l05_abtest_nextstep_instructor.pdf
+
+[l05-code]: https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code
+[l05-code-instructor]: https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code/tree/instructor
