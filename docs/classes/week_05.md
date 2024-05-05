@@ -10,7 +10,8 @@
 
 ### Slides
 
-Coming Soon.
+
+:fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student]
 
 ## Lecture 2: Difference in Differences II - Applications
 
@@ -27,3 +28,5 @@ Coming Soon.
 ## Lab Assignment
 
 No Lab this week due to **Ascension** Public Holidays.
+
+[l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
