@@ -18,3 +18,4 @@
 Material posted soon
 
 [tidytext]: https://www.tidytextmining.com/
+[vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
