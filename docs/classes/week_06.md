@@ -1,15 +1,17 @@
 # Week 6
 
-## Lecture 1
+## Lecture 1:  Intro to Text Analytics
 
-No Lecture due to Public Holiday
+ :fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
 
-## Lecture 2: Intro to Text Analytics
-
+## Lecture 2: Sentiment Analysis
 
 ### Reading
 
- :fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
+:fontawesome-solid-book: Chapter 2 of [*Tidy Text Mining with R*][tidytext]
+
+:fontawesome-solid-scroll: [The VADER Sentiment Lexicon][vader] 
+
 
 ## Lab Assignment
 

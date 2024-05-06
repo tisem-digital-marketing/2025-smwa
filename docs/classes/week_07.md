@@ -1,12 +1,8 @@
 # Week 7
 
-## Lecture 1: Sentiment Analysis
+## Lecture 1
 
-### Reading
-
-:fontawesome-solid-book: Chapter 2 of [*Tidy Text Mining with R*][tidytext]
-
-:fontawesome-solid-scroll: [The VADER Sentiment Lexicon][vader] 
+No lecture due to a public holiday
 
 ## Lecture 2: Topic Models
 
