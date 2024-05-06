@@ -23,10 +23,11 @@
 
 ### Slides 
 
-Coming Soon.
+:fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student]
 
 ## Lab Assignment
 
 No Lab this week due to **Ascension** Public Holidays.
 
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
+[l06a-student]: ../assets/lectures/week-05/l06a_did_applications.pdf
