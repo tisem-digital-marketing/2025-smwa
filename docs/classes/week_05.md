@@ -13,6 +13,8 @@
 
 :fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student]
 
+:fontawesome-solid-code:  [Git Hub Repo][l06-code]
+
 ## Lecture 2: Difference in Differences II - Applications
 
 ### Reading 
@@ -30,4 +32,5 @@
 No Lab this week due to **Ascension** Public Holidays.
 
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
-[l06a-student]: ../assets/lectures/week-05/l06a_did_applications.pdf
+[l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf
+[l03-code]: https://github.com/tisem-digital-marketing/smwa-quasiexp-did-code
