@@ -33,4 +33,4 @@ No Lab this week due to **Ascension** Public Holidays.
 
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
 [l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf
-[l03-code]: https://github.com/tisem-digital-marketing/smwa-quasiexp-did-code
+[l06-code]: https://github.com/tisem-digital-marketing/smwa-quasiexp-did-code
