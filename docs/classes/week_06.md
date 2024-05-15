@@ -25,6 +25,8 @@
 
 ## Lab Assignment
 
+:fontawesome-solid-scroll: [paper] discussed in lab assignment.
+
 :fontawesome-brands-github: [Assignment Questions][lab]
 
 
@@ -32,3 +34,4 @@
 [vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
 [lab]: https://github.com/tisem-digital-marketing/smwa-lab-did
 [text-code-archive]: ../assets/lectures/week-06/starter_code.zip
+[paper]: https://pubsonline.informs.org/doi/10.1287/mksc.2017.1043
