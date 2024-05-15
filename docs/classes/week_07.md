@@ -16,8 +16,13 @@ No lecture due to a public holiday
 
 ## Lab Assignment
 
-Material posted soon
+:fontawesome-solid-scroll: [paper] discussed in Exercise 2.
+
+:fontawesome-brands-github: [Assignment Questions][lab]
+
 
 [tidytext]: https://www.tidytextmining.com/
 [vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
 [stm]: https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true
+[lab]: https://github.com/tisem-digital-marketing/smwa-lab-intro-text
+[paper]: https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2421
