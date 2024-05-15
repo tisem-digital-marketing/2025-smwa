@@ -35,7 +35,7 @@
 
 :fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student]
 
-* As taught - [less blank slides][l03-instructor]
+* As taught - [less blank slides][l04-instructor]
 
 :fontawesome-solid-code: [Git Hub Repo][l04-code]
 
