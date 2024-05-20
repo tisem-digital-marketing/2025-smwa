@@ -22,8 +22,8 @@
 ## Group Assignment 2
 
 * **Due Date**: May 31 at 23:59pm
-* **Groups**: <!---See Canvas---> Will be posted on Canvas
-* Assignment Link: TBA <!---[Click here](https://classroom.github.com/a/1_1wwlru) --->
+* **Groups**: See Canvas <!---Will be posted on Canvas--->
+* Assignment Link: [Click here](https://classroom.github.com/a/ZmIYc_0A)
 * Group leaders should accept the assignment and add their team members
 <!-- * Assignment README documents how to do this.  -->
 
