@@ -10,4 +10,6 @@ Material posted closer to lecture
 
 ## Lab Assignment
 
-Material posted soon
+:fontawesome-brands-github: [Assignment Questions][assignment]
+
+[assignment]: https://github.com/tisem-digital-marketing/smwa-text-sentiment-topics
