@@ -14,11 +14,18 @@ No lecture due to a public holiday
 
 * Don't focus on the technical details
 
+## Code
+
+* [Instructor Code][instructor] from the three text analytics classes.
+
 ## Lab Assignment
 
 :fontawesome-solid-scroll: [paper] discussed in Exercise 2.
 
 :fontawesome-brands-github: [Assignment Questions][lab]
+
+* [Partial Solutions][solutions]
+
 
 
 [tidytext]: https://www.tidytextmining.com/
@@ -26,3 +33,5 @@ No lecture due to a public holiday
 [stm]: https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true
 [lab]: https://github.com/tisem-digital-marketing/smwa-lab-intro-text
 [paper]: https://www.aeaweb.org/articles?id=10.1257/aer.104.8.2421
+[solutions]: ../assets/labs/lab_text-intro_solution.pdf
+[instructor]: ../assets/lectures/week-07/instructor.zip
