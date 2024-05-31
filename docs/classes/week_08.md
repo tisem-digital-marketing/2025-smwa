@@ -1,15 +1,15 @@
 # Week 8
 
-## Lecture 1: Alternative Causal Inference Methods
+## Lectures
 
-Material posted closer to lecture
-
-## Lecture 2: Innovations in Text Analytics
-
-Material posted closer to lecture
+No lectures this week.
 
 ## Lab Assignment
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
+* [Partial Solutions][solutions]
+
+
 [assignment]: https://github.com/tisem-digital-marketing/smwa-text-sentiment-topics
+[solutions]: ../assets/labs/lab-text-intermediate_solution.pdf
