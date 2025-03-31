@@ -30,7 +30,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-* [Solutions][assignmment-solutions]
+<!-- * [Solutions][assignmment-solutions] -->
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-ab-test/
 [assignmment-solutions]: ../assets/labs/lab_ab_test_solution.html

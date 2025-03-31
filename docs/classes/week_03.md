@@ -32,7 +32,7 @@
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
 <!-- * [Solutions for Part 1][assignment-solutions] -->
-* Solutions for Part 2: See your mural board
+<!-- * Solutions for Part 2: See your mural board -->
 
 
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
