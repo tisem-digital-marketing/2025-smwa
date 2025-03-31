@@ -8,7 +8,7 @@ No lectures this week.
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-* [Partial Solutions][solutions]
+<!-- * [Partial Solutions][solutions] -->
 
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-text-sentiment-topics

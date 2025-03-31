@@ -24,7 +24,7 @@ No lecture due to a public holiday
 
 :fontawesome-brands-github: [Assignment Questions][lab]
 
-* [Partial Solutions][solutions]
+<!-- * [Partial Solutions][solutions] -->
 
 
 

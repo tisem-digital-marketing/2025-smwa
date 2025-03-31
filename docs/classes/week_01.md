@@ -23,18 +23,18 @@
 
 :fontawesome-solid-file-pdf: [Lecture 2 Slides][l02-student]
 
-* As taught - [less blank slides][l02]
+<!-- * As taught - [less blank slides][l02] -->
 
 :fontawesome-solid-code: [Git Hub Repo][code]
 
-* [Code "Solutions"][code-instructor]
+<!-- * [Code "Solutions"][code-instructor] -->
 
 ## Lab Assignment
 
 No Lab this week
 
 <!--- Links Below --->
-[syllabus]: ../assets/smwa-syllabus-2024.pdf
+[syllabus]: ../assets/smwa-syllabus-2025.pdf
 
 [the-effect]: https://theeffectbook.net/index.html
 [stephan-toubia]: https://www.researchgate.net/publication/261851427_Intrinsic_vs_Image-Related_Utility_in_Social_Media_Why_Do_People_Contribute_Content_to_Twitter

@@ -29,7 +29,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][lab]
 
-* [Partial Solutions][solutions]
+<!-- * [Partial Solutions][solutions] -->
 
 
 [tidytext]: https://www.tidytextmining.com/

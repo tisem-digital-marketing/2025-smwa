@@ -1,22 +1,8 @@
 # Week 3
 
-## Lecture 1: Causation & Experimentation
+## Lecture 1
 
-### Reading
-
-:fontawesome-solid-book: [Randomization and Causality][rc-nw]
-
-:fontawesome-solid-scroll: [Put Your Mouth Where Your Money Is: A Field Experiment Encouraging Donors to Share About Charity][charity]
-
-### Slides
-
-:fontawesome-solid-file-pdf: [Lecture 3 Slides][l03-student]
-
-* As taught - [less blank slides][l03-instructor]
-
-:fontawesome-solid-code: [Git Hub Repo][l03-code]
-
-* [Code "Solutions"][l03-code-instructor]
+*No Class*
 
 ## Lecture 2: A/B Testing - Basics
 
@@ -35,23 +21,19 @@
 
 :fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student]
 
-* As taught - [less blank slides][l04-instructor]
+<!-- * As taught - [less blank slides][l04-instructor] -->
 
 :fontawesome-solid-code: [Git Hub Repo][l04-code]
 
-* [Code "Solutions"][l04-code-instructor]
+<!-- * [Code "Solutions"][l04-code-instructor] -->
 
 ## Lab Assignment
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-* [Solutions for Part 1][assignment-solutions]
+<!-- * [Solutions for Part 1][assignment-solutions] -->
 * Solutions for Part 2: See your mural board
 
-[l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
-[l03-instructor]: ../assets/lectures/week-03/l03_randomized.pdf
-[l03-code]: https://github.com/tisem-digital-marketing/smwa-causation-code
-[l03-code-instructor]: https://github.com/tisem-digital-marketing/smwa-causation-code/tree/instructor
 
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
 [l04-instructor]: ../assets/lectures/week-03/l04_abtest_intro.pdf
@@ -61,8 +43,6 @@
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-identification
 [assignment-solutions]: ../assets/labs/lab-identification-answers_solution.html
 
-[rc-nw]: https://nulib.github.io/moderndive_book/7-causality.html
-[charity]: https://doi.org/10.1287/mksc.2023.1450
 
 [ab-review]: https://www.tandfonline.com/doi/pdf/10.1080/00031305.2023.2257237
 [ab-test]: https://www.wired.com/2012/04/ff-abtesting/

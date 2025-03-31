@@ -2,7 +2,28 @@
 
 ## Lectures
 
-There are no lectures this week.
+## Lecture 1: Causation & Experimentation
+
+### Reading
+
+:fontawesome-solid-book: [Randomization and Causality][rc-nw]
+
+:fontawesome-solid-scroll: [Put Your Mouth Where Your Money Is: A Field Experiment Encouraging Donors to Share About Charity][charity]
+
+### Slides
+
+:fontawesome-solid-file-pdf: [Lecture 3 Slides][l03-student]
+
+<!-- * As taught - [less blank slides][l03-instructor] -->
+
+:fontawesome-solid-code: [Git Hub Repo][l03-code]
+
+<!-- * [Code "Solutions"][l03-code-instructor] -->
+
+
+## Lecture 2
+
+Finish Lecture 1 (if required)
 
 ## Lab Assignment
 
@@ -20,8 +41,16 @@ Each are written in a different style, choose the one(s) that helps you learn/re
 ### Questions
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-* [Solution][solution]
+<!-- * [Solution][solution] -->
 
+
+[l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
+[l03-instructor]: ../assets/lectures/week-03/l03_randomized.pdf
+[l03-code]: https://github.com/tisem-digital-marketing/smwa-causation-code
+[l03-code-instructor]: https://github.com/tisem-digital-marketing/smwa-causation-code/tree/instructor
+
+[rc-nw]: https://nulib.github.io/moderndive_book/7-causality.html
+[charity]: https://doi.org/10.1287/mksc.2023.1450
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-regression
 [solution]: ../assets/lectures/week-02/lab-regression_solution.html
