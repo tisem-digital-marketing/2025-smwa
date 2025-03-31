@@ -8,7 +8,7 @@
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
 *   Course: [Social Media and Web Analytics](https://uvt.osiris-student.nl/onderwijscatalogus/extern/cursus?collegejaar=huidig&taal=en&cursuscode=300459-M-6)
 *   Institute: TiSEM
-*   Current Version: [2024](https://tisem-digital-marketing.github.io/2025-smwa)
+*   Current Version: [2025](https://tisem-digital-marketing.github.io/2025-smwa)
 * Contact: email us at: tisem_social_media 'AT' gmail 'DOT' com
 
 ## Building the Site
