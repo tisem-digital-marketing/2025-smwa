@@ -1,6 +1,6 @@
-# Course Website: Social Media and Web Analytics, 2024-TiSEM
+# Course Website: Social Media and Web Analytics, 2025-TiSEM
 
-[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yaml/badge.svg)](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yaml)
+[![Publish docs via GitHub Pages](https://github.com/tisem-digital-marketing/2024-smwa/actions/workflows/deploy.yaml/badge.svg)](https://github.com/tisem-digital-marketing/2025-smwa/actions/workflows/deploy.yaml)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035) -->
 
 ## Meta-Information
@@ -8,7 +8,7 @@
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
 *   Course: [Social Media and Web Analytics](https://uvt.osiris-student.nl/onderwijscatalogus/extern/cursus?collegejaar=huidig&taal=en&cursuscode=300459-M-6)
 *   Institute: TiSEM
-*   Current Version: [2024](https://tisem-digital-marketing.github.io/2024-smwa)
+*   Current Version: [2024](https://tisem-digital-marketing.github.io/2025-smwa)
 * Contact: email us at: tisem_social_media 'AT' gmail 'DOT' com
 
 ## Building the Site
@@ -47,15 +47,15 @@ More information is available [here](LICENSE.md)
 
 Please cite as: 
 
-Deer, Lachlan. (2024).
+Deer, Lachlan. (2025).
 "Social Media and Web Analytics".
-April 2024 (Version v2024.0.1). url = https://tisem-digital-marketing.github.io/2024-smwa
+April 2025 (Version v2025.0.1). url = https://tisem-digital-marketing.github.io/2025-smwa
 
 ```
-@misc{smwa2024,
+@misc{smwa2025,
       title={"Social Media and Web Analytics"},
       author={Lachlan Deer},
-      year={2024},
-      url = "https://tisem-digital-marketing.github.io/2024-smwa"
+      year={2025},
+      url = "https://tisem-digital-marketing.github.io/2025-smwa"
 }
 ```
