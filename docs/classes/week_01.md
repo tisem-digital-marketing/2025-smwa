@@ -21,7 +21,7 @@
 
 ### Lecture Material
 
-:fontawesome-solid-file-pdf: [Lecture 2 Slides][l02-student]
+:fontawesome-solid-file-pdf: [Lecture 2 Slides][l02]
 
 <!-- * As taught - [less blank slides][l02] -->
 

@@ -12,7 +12,7 @@
 
 ### Slides
 
-:fontawesome-solid-file-pdf: [Lecture 3 Slides][l03-student]
+:fontawesome-solid-file-pdf: [Lecture 3 Slides][l03-instructor]
 
 <!-- * As taught - [less blank slides][l03-instructor] -->
 
