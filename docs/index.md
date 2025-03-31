@@ -1,17 +1,17 @@
 # Welcome!
 
-Welcome to the course website for **Social Media and Web Analytics** at TiSEM in **2024**.
+Welcome to the course website for **Social Media and Web Analytics** at TiSEM in **2025**.
 
 This course introduces students to a marketing analytics toolkit that can be used to analyse data originating from digital markets and social media.
 
 
-!!! tip "Site is Live: Information is accurate as of 31st May, 2024"
+!!! tip "Site is Live: Information is accurate as of 31st March, 2025"
 
 
 ## Important Information
 
 
-:fontawesome-solid-building-columns: [Course Syllabus](assets/smwa-syllabus-2024.pdf)
+:fontawesome-solid-building-columns: [Course Syllabus](assets/smwa-syllabus-2025.pdf)
 
 :fontawesome-regular-calendar: [Class Schedule](about/schedule)
 
@@ -22,9 +22,9 @@ This course introduces students to a marketing analytics toolkit that can be use
 :fontawesome-solid-bell: [Announcements](about/announcements)
 
 
-## :fontawesome-solid-square-poll-vertical: [Pre-Course Survey](https://forms.gle/XrNS7dNGd7qEFf9w8)
+## :fontawesome-solid-square-poll-vertical: [Pre-Course Survey](https://forms.gle/eu6TKzLSQXpe2p4i7)
 
-Please fill out the [pre-course survey](https://forms.gle/XrNS7dNGd7qEFf9w8) before the first class (Monday of Week 1)
+Please fill out the [pre-course survey](https://forms.gle/eu6TKzLSQXpe2p4i7) before the first class (Monday of Week 1)
 
 ## :fontawesome-brands-slack: Slack Chat 
 
