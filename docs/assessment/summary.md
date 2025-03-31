@@ -2,14 +2,13 @@
 
 | Graded Assessment            | Weight (%)  | Min. Pass Grade | Resit?           |
 |------------------------------|-------------|-----------------|------------------|
-| Group Assignment 1           | 20          | -               | No               |
-| Group Assignment 2           | 20          | -               | No               |
-| Final Exam                   | 60          | 5.0             | Yes, 1 x in July |
+| Group Assignment             | 20          | -               | No               |
+| Final Exam                   | 80          | 5.0             | Yes, 1 x in July |
 
 **To pass the course**: Final Course Grade (weighted average) **>= 5.5**.
 
-!!! danger "Grades and submissions from 2023 can roll over"
+!!! danger "Grades and submissions from 2024 can roll over"
 
-    Students who failed to complete the 2023 course can roll over their grades from the group assignments.
+    Students who failed to complete the 2024 course can roll over their grades from Group Assignment 1.
     No other grades can be rolled over, and final grades will be computed using the 2024 weights. 
-    **You must contact the instructors via email before Friday April 12 at 17:00 if you want this rule applied to you.**    
+    **You must contact the instructors via email before Friday April 11 at 17:00 if you want this rule applied to you.**    
