@@ -3,7 +3,7 @@
 | Graded Assessment            | Weight (%)  | Min. Pass Grade | Resit?           |
 |------------------------------|-------------|-----------------|------------------|
 | Group Assignment             | 20          | -               | No               |
-| Final Exam                   | 80          | 5.0             | Yes, 1 x in July |
+| Final Exam                   | 80          | 5.5             | Yes, 1 x in July |
 
 **To pass the course**: Final Course Grade (weighted average) **>= 5.5**.
 
