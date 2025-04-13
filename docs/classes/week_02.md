@@ -45,7 +45,7 @@ Each are written in a different style, choose the one(s) that helps you learn/re
 
 
 [l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
-[l03-instructor]: ../assets/lectures/week-03/l03_randomized.pdf
+[l03-instructor]: ../assets/lectures/week-02/l03_randomized.pdf
 [l03-code]: https://github.com/tisem-digital-marketing/smwa-causation-code
 [l03-code-instructor]: https://github.com/tisem-digital-marketing/smwa-causation-code/tree/instructor
 
