@@ -19,11 +19,12 @@
 :fontawesome-solid-globe: [The A/B Test: Inside the Technology That's Changing the Rules of Business][ab-test]
 ### Slides
 
-:fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student]
+TBA 
+<!-- :fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student] -->
 
 <!-- * As taught - [less blank slides][l04-instructor] -->
 
-:fontawesome-solid-code: [Git Hub Repo][l04-code]
+<!-- :fontawesome-solid-code: [Git Hub Repo][l04-code] -->
 
 <!-- * [Code "Solutions"][l04-code-instructor] -->
 

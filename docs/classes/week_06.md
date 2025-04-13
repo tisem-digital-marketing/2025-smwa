@@ -6,7 +6,8 @@
 
 ### Code
 
-:fontawesome-solid-code: [Zip Archive][text-code-archive]
+TBA 
+<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
 
 
 ## Lecture 2: Sentiment Analysis
@@ -19,9 +20,11 @@
 
 ### Code
 
-:fontawesome-solid-code: [Zip Archive][text-code-archive]
+TBA
 
-* This is the same archive as Lecture 1!
+<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
+
+<!-- * This is the same archive as Lecture 1! -->
 
 ## Lab Assignment
 

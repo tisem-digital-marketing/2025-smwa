@@ -12,19 +12,21 @@
 
 ### Slides
 
-:fontawesome-solid-file-pdf: Finish ["A/B Testing: Basics"][l04-student]
+TBA
+<!-- :fontawesome-solid-file-pdf: Finish ["A/B Testing: Basics"][l04-student] -->
 
-:fontawesome-solid-file-pdf: Start ["A/B Testing: Next Steps"][l05-student]
+<!-- :fontawesome-solid-file-pdf: Start ["A/B Testing: Next Steps"][l05-student] -->
 
-* As taught - [less blank slides][l05-instructor]
+<!-- * As taught - [less blank slides][l05-instructor] -->
 
-:fontawesome-solid-code: [Git Hub Repo][l05-code]
+<!-- :fontawesome-solid-code: [Git Hub Repo][l05-code] -->
 
-* [Code "Solutions"][l05-code-instructor]
+<!-- * [Code "Solutions"][l05-code-instructor] -->
 
 ## Lecture 2
 
-:fontawesome-solid-file-pdf: Finish ["A/B Testing: Next Steps"][l05-student]
+TBA 
+<!-- :fontawesome-solid-file-pdf: Finish ["A/B Testing: Next Steps"][l05-student] -->
 
 ## Lab Assignment
 

@@ -10,10 +10,10 @@
 
 ### Slides
 
+TBA
+<!-- :fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student] -->
 
-:fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student]
-
-:fontawesome-solid-code:  [Git Hub Repo][l06-code]
+<!-- :fontawesome-solid-code:  [Git Hub Repo][l06-code] -->
 
 ## Lecture 2: Difference in Differences II - Applications
 
@@ -25,7 +25,8 @@
 
 ### Slides 
 
-:fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student]
+TBA
+<!-- :fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student] -->
 
 ## Lab Assignment
 

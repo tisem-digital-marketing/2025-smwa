@@ -16,7 +16,8 @@ No lecture due to a public holiday
 
 ## Code
 
-* [Instructor Code][instructor] from the three text analytics classes.
+TBA 
+<!-- * [Instructor Code][instructor] from the three text analytics classes. -->
 
 ## Lab Assignment
 
