@@ -27,7 +27,7 @@
 
 :fontawesome-solid-code: [Git Hub Repo][code]
 
-<!-- * [Code "Solutions"][code-instructor] -->
+* [Code "Solutions"][code-instructor]
 
 ## Lab Assignment
 
