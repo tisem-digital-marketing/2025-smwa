@@ -1,12 +1,6 @@
 # Week 7
 
-## Lecture 1
-
-No lecture due to a public holiday
-
-## Lecture 2: Topic Models
-
-### Reading
+## Lecture 1: Topic Models
 
 :fontawesome-solid-book: Chapter 6 of [*Tidy Text Mining with R*][tidytext]
 
@@ -14,9 +8,15 @@ No lecture due to a public holiday
 
 * Don't focus on the technical details
 
-## Code
+### Code
 
 TBA 
+
+## Lecture 2: TBA
+
+<!-- ### Reading -->
+
+
 <!-- * [Instructor Code][instructor] from the three text analytics classes. -->
 
 ## Lab Assignment

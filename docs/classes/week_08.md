@@ -1,8 +1,8 @@
 # Week 8
 
-## Lectures
+## Lectures: TBA
 
-No lectures this week.
+<!-- No lectures this week. -->
 
 ## Lab Assignment
 

@@ -1,6 +1,6 @@
 # Week 4
 
-## Lecture 1
+## Lecture 1: A/B Testing - Next Steps
 
 ### Reading
 
@@ -25,7 +25,7 @@ TBA
 
 ## Lecture 2
 
-TBA 
+No Class
 <!-- :fontawesome-solid-file-pdf: Finish ["A/B Testing: Next Steps"][l05-student] -->
 
 ## Lab Assignment

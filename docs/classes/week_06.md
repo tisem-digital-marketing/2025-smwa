@@ -2,6 +2,7 @@
 
 ## Lecture 1:  Intro to Text Analytics
 
+### Reading
 :fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
 
 ### Code

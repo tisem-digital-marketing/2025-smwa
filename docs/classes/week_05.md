@@ -30,7 +30,8 @@ TBA
 
 ## Lab Assignment
 
-No Lab this week due to **Ascension** Public Holidays.
+TBA 
+<!-- No Lab this week due to **Ascension** Public Holidays. -->
 
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
 [l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf

@@ -1,7 +1,7 @@
 # Week 3
 
 
-## Lecture 1 (Tuesday!)
+## Lecture 1 (Tuesday!): A/B Testing
 
 ### Reading
 
@@ -24,7 +24,7 @@
 :fontawesome-solid-code: [Git Hub Repo for Lecture 4][l04-code]
 
 
-## Lecture 2
+## Lecture 2: A/B Testing
 
 <!-- ### Reading -->
 
