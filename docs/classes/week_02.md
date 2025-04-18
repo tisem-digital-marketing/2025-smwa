@@ -23,7 +23,7 @@
 
 ## Lecture 2
 
-Finish Lecture 1 (if required)
+No class
 
 ## Lab Assignment
 

@@ -1,10 +1,7 @@
 # Week 3
 
-## Lecture 1
 
-*No Class*
-
-## Lecture 2: A/B Testing - Basics
+## Lecture 1 (Tuesday!)
 
 ### Reading
 
@@ -17,9 +14,24 @@
 :fontawesome-solid-globe: [Online Experimentation: Benefits, Operational and Methodological Challenges, and Scaling Guide][online-exp]
 
 :fontawesome-solid-globe: [The A/B Test: Inside the Technology That's Changing the Rules of Business][ab-test]
+
 ### Slides
 
-TBA 
+:fontawesome-solid-file-pdf: Finish  [Lecture 3][l03-instructor]
+
+:fontawesome-solid-file-pdf: Start [Lecture 4][l04-instructor]
+
+:fontawesome-solid-code: [Git Hub Repo for Lecture 4][l04-code]
+
+
+## Lecture 2
+
+<!-- ### Reading -->
+
+### Slides
+
+:fontawesome-solid-file-pdf: Finish [Lecture 4][l04-instructor]
+
 <!-- :fontawesome-solid-file-pdf: [Lecture 4 Slides][l04-student] -->
 
 <!-- * As taught - [less blank slides][l04-instructor] -->
@@ -35,6 +47,7 @@ TBA
 <!-- * [Solutions for Part 1][assignment-solutions] -->
 <!-- * Solutions for Part 2: See your mural board -->
 
+[l03-instructor]: ../assets/lectures/week-02/l03_randomized.pdf
 
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
 [l04-instructor]: ../assets/lectures/week-03/l04_abtest_intro.pdf
