@@ -41,7 +41,7 @@ Each are written in a different style, choose the one(s) that helps you learn/re
 ### Questions
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-<!-- * [Solution][solution] -->
+* [Solution][solution]
 
 
 [l03-student]: ../assets/lectures/week-03/l03_randomized_student.pdf
