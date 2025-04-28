@@ -12,10 +12,9 @@
 
 ### Slides
 
-TBA
 <!-- :fontawesome-solid-file-pdf: Finish ["A/B Testing: Basics"][l04-student] -->
 
-<!-- :fontawesome-solid-file-pdf: Start ["A/B Testing: Next Steps"][l05-student] -->
+:fontawesome-solid-file-pdf: ["A/B Testing: Next Steps"][l05]
 
 <!-- * As taught - [less blank slides][l05-instructor] -->
 
@@ -39,6 +38,6 @@ No Class
 [l04-student]: ../assets/lectures/week-03/l04_abtest_intro_student.pdf
 [l05-student]: ../assets/lectures/week-04/l05_abtest_nextstep_student.pdf
 [l05-instructor]: ../assets/lectures/week-04/l05_abtest_nextstep_instructor.pdf
-
+[l05]: ../assets/lectures/week-04/l05_abtest_nextsteps.pdf
 [l05-code]: https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code
 [l05-code-instructor]: https://github.com/tisem-digital-marketing/smwa-abtest-nextsteps-code/tree/instructor
