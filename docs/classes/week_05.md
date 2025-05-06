@@ -14,17 +14,21 @@
 
 ### Slides
 
-TBA
-<!-- :fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student] -->
+:fontawesome-solid-file-pdf: [Lecture 6 Slides][l06-student]
 
-<!-- :fontawesome-solid-code:  [Git Hub Repo][l06-code] -->
+:fontawesome-solid-code:  [Git Hub Repo][l06-code]
 
 
 <!-- :fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student] -->
 
 ## Lab Assignment
 
-TBA 
+:fontawesome-brands-github: [Assignment Questions][assignment]
+
+<!-- * [Solutions][assignmment-solutions] -->
+
+[assignment]: https://github.com/tisem-digital-marketing/smwa-lab-abtest-nextsteps/
+
 <!-- No Lab this week due to **Ascension** Public Holidays. -->
 
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
