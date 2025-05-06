@@ -44,7 +44,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-<!-- * [Solutions for Part 1][assignment-solutions] -->
+* [Solutions for Part 1][assignment-solutions]
 <!-- * Solutions for Part 2: See your mural board -->
 
 [l03-instructor]: ../assets/lectures/week-02/l03_randomized.pdf
