@@ -1,6 +1,10 @@
 # Week 5
 
-## Lecture 1: Difference in Differences I - Theory
+## Lecture 1
+
+*No Class*
+
+## Lecture 2:  Difference in Differences I - Theory
 
 ### Reading
 
@@ -15,17 +19,7 @@ TBA
 
 <!-- :fontawesome-solid-code:  [Git Hub Repo][l06-code] -->
 
-## Lecture 2: Difference in Differences II - Applications
 
-### Reading 
-
-:fontawesome-solid-scroll: [Consumer Heterogeneity and Paid Search Effectiveness: A Large-Scale Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA12423)
-
-:fontawesome-solid-scroll: [Does Online Word-of-Mouth Increase Demand? (and How?) Evidence from a Natural Experiment](https://pubsonline.informs.org/doi/10.1287/mksc.2017.1045)
-
-### Slides 
-
-TBA
 <!-- :fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student] -->
 
 ## Lab Assignment

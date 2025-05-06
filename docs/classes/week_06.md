@@ -1,6 +1,19 @@
 # Week 6
 
-## Lecture 1:  Intro to Text Analytics
+## Lecture 1:  Difference in Differences II - Applications
+
+### Reading 
+
+:fontawesome-solid-scroll: [Consumer Heterogeneity and Paid Search Effectiveness: A Large-Scale Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA12423)
+
+:fontawesome-solid-scroll: [Does Online Word-of-Mouth Increase Demand? (and How?) Evidence from a Natural Experiment](https://pubsonline.informs.org/doi/10.1287/mksc.2017.1045)
+
+### Slides 
+
+TBA
+
+
+## Lecture 2: Intro to Text Analytics
 
 ### Reading
 :fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
@@ -10,22 +23,6 @@
 TBA 
 <!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
 
-
-## Lecture 2: Sentiment Analysis
-
-### Reading
-
-:fontawesome-solid-book: Chapter 2 of [*Tidy Text Mining with R*][tidytext]
-
-:fontawesome-solid-scroll: [The VADER Sentiment Lexicon][vader] 
-
-### Code
-
-TBA
-
-<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
-
-<!-- * This is the same archive as Lecture 1! -->
 
 ## Lab Assignment
 

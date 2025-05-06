@@ -1,6 +1,23 @@
 # Week 7
 
-## Lecture 1: Topic Models
+## Lecture 1: Sentiment Analysis
+
+### Reading
+
+:fontawesome-solid-book: Chapter 2 of [*Tidy Text Mining with R*][tidytext]
+
+:fontawesome-solid-scroll: [The VADER Sentiment Lexicon][vader] 
+
+### Code
+
+TBA
+
+<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
+
+<!-- * This is the same archive as Lecture 1! -->
+
+
+## Lecture 2: Topic Models
 
 :fontawesome-solid-book: Chapter 6 of [*Tidy Text Mining with R*][tidytext]
 
@@ -11,8 +28,6 @@
 ### Code
 
 TBA 
-
-## Lecture 2: TBA
 
 <!-- ### Reading -->
 
