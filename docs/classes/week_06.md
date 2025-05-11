@@ -8,9 +8,13 @@
 
 :fontawesome-solid-scroll: [Does Online Word-of-Mouth Increase Demand? (and How?) Evidence from a Natural Experiment](https://pubsonline.informs.org/doi/10.1287/mksc.2017.1045)
 
+:fontawesome-solid-scroll: [The Effects of Advertising Disclosure Regulations on Social Media: Evidence From Instagram](https://www.dropbox.com/scl/fi/0yrs7dm5tnic2kepqczz4/Influencers_Revision_CA.pdf?rlkey=mo70sz5lmg7ra215zmsaeo8u4&dl=0)
+
+:fontawesome-solid-scroll: [Video advertising by Twitch Influencers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4065064)
+
 ### Slides 
 
-TBA
+:fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student]
 
 
 ## Lecture 2: Intro to Text Analytics
@@ -32,7 +36,7 @@ TBA
 
 <!-- * [Partial Solutions][solutions] -->
 
-
+[l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf
 [tidytext]: https://www.tidytextmining.com/
 [vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
 [lab]: https://github.com/tisem-digital-marketing/smwa-lab-did
