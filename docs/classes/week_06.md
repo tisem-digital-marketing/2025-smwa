@@ -26,7 +26,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][lab]
 
-<!-- * [Partial Solutions][solutions] -->
+* [Partial Solutions][solutions]
 
 [l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf
 [tidytext]: https://www.tidytextmining.com/
