@@ -11,9 +11,7 @@ The exam will be split into three components as follows:
 
 ## Mock Exam
  
-A mock exam will be made available by the end of Week 6.
-
-<!-- * [**Mock Exam**][mock-exam] -->
+* [**Mock Exam**][mock-exam]
 
 !!! danger "Caution when Revising Using Mock Exams" 
 
@@ -26,4 +24,4 @@ A mock exam will be made available by the end of Week 6.
     * We suggest forming study groups to talk over potential solutions among yourselves.
   
  
-<!-- [mock-exam]:  ../assets/exam/2024_smwa_mock.pdf -->
+[mock-exam]:  ../assets/exam/2025_smwa_mock.pdf
