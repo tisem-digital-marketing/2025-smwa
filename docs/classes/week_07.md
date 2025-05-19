@@ -42,6 +42,7 @@ TBA
 
 
 [tidytext]: https://www.tidytextmining.com/
+[text-code-archive]: ../assets/lectures/week-06/starter_code.zip
 [vader]: https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399
 [stm]: https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true
 [lab]: https://github.com/tisem-digital-marketing/smwa-lab-intro-text
