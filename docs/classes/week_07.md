@@ -1,6 +1,19 @@
 # Week 7
 
-## Lecture 1: Sentiment Analysis
+## Lecture 1: Intro to Text Analytics
+
+### Reading
+:fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
+
+### Code
+
+:fontawesome-solid-code: [Zip Archive][text-code-archive]
+<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
+
+<!-- * This is the same archive as Lecture 1! -->
+
+
+## Lecture 2: Sentiment Analysis
 
 ### Reading
 
@@ -11,23 +24,7 @@
 ### Code
 
 TBA
-
-<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
-
-<!-- * This is the same archive as Lecture 1! -->
-
-
-## Lecture 2: Topic Models
-
-:fontawesome-solid-book: Chapter 6 of [*Tidy Text Mining with R*][tidytext]
-
-:fontawesome-solid-scroll: [Structural Topic Modelling][stm] 
-
-* Don't focus on the technical details
-
-### Code
-
-TBA 
+ 
 
 <!-- ### Reading -->
 

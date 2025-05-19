@@ -17,15 +17,7 @@
 :fontawesome-solid-file-pdf: [Lecture 6A Slides][l06a-student]
 
 
-## Lecture 2: Intro to Text Analytics
-
-### Reading
-:fontawesome-solid-book: Chapters 1 and 3 of [*Tidy Text Mining with R*][tidytext]
-
-### Code
-
-TBA 
-<!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
+## Lecture 2: No Class
 
 
 ## Lab Assignment

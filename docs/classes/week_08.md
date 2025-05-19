@@ -1,6 +1,14 @@
 # Week 8
 
-## Lectures: TBA
+## Lecture 1: Topic Models
+
+:fontawesome-solid-book: Chapter 6 of [*Tidy Text Mining with R*][tidytext]
+
+:fontawesome-solid-scroll: [Structural Topic Modelling][stm] 
+
+* Don't focus on the technical details
+
+## Lecture 2: No Class
 
 <!-- No lectures this week. -->
 
