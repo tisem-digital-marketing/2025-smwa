@@ -25,7 +25,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-<!-- * [Solutions][assignmment-solutions] -->
+* [Solutions][assignmment-solutions]
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-abtest-nextsteps/
 
@@ -34,3 +34,4 @@
 [l06-student]: ../assets/lectures/week-05/l06_did_student.pdf
 [l06a-student]: ../assets/lectures/week-05/l06a-did_applications.pdf
 [l06-code]: https://github.com/tisem-digital-marketing/smwa-quasiexp-did-code
+[assignment-solutions]: ../assets/labs/smwa_lab_ab_nextsteps_solution.html
