@@ -7,7 +7,10 @@
 
 ### Code
 
-:fontawesome-solid-code: [Zip Archive][text-code-archive]
+:fontawesome-solid-code: [Starter Code Zip Archive][text-code-archive]
+
+* [Instructor Code][instructor] for the three text analytics classes.
+
 <!-- :fontawesome-solid-code: [Zip Archive][text-code-archive] -->
 
 <!-- * This is the same archive as Lecture 1! -->
@@ -23,13 +26,12 @@
 
 ### Code
 
-TBA
+Same as Lecture 1
  
 
 <!-- ### Reading -->
 
 
-<!-- * [Instructor Code][instructor] from the three text analytics classes. -->
 
 ## Lab Assignment
 
