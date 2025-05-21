@@ -25,7 +25,7 @@
 
 :fontawesome-brands-github: [Assignment Questions][assignment]
 
-* [Solutions][assignmment-solutions]
+* [Solutions][assignment-solutions]
 
 [assignment]: https://github.com/tisem-digital-marketing/smwa-lab-abtest-nextsteps/
 
