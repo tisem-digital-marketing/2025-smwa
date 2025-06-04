@@ -39,7 +39,7 @@ Same as Lecture 1
 
 :fontawesome-brands-github: [Assignment Questions][lab]
 
-<!-- * [Partial Solutions][solutions] -->
+* [Partial Solutions][solutions]
 
 
 
